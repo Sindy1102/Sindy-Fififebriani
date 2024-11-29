@@ -1,0 +1,56 @@
+DesktopResponsive={"1009":{
+"pageLayer":{"w":1009,"h":662,"bgColor":"#c5ad8a"}
+,
+"button23005":{"x":853,"y":22,"w":69.000000,"h":69.000000,"stylemods":[{"sel":"div.button23005Text","decl":" { position:fixed; left:2px; top:2px; width:64px; height:64px;}"},{"sel":"span.button23005Text","decl":" { display:table-cell; position:relative; width:64px; height:64px; vertical-align:middle; text-align:center; line-height:16px; font-size:16px; font-family:\"Lucida Sans Unicode\"; color:#ffffff;}"}],"bOffBottom":0  ,"td": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEUAAABFCAYAAAAcjSspAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAApSURBVHhe7cGBAAAAAMOg+VNf4AhVAQAAAAAAAAAAAAAAAAAAAAAAwDFKqQABSSy3pwAAAABJRU5ErkJggg==" ,"tdO": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEUAAABFCAYAAAAcjSspAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAApSURBVHhe7cGBAAAAAMOg+VNf4AhVAQAAAAAAAAAAAAAAAAAAAAAAwDFKqQABSSy3pwAAAABJRU5ErkJggg==" ,"tdD": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEUAAABFCAYAAAAcjSspAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAApSURBVHhe7cGBAAAAAMOg+VNf4AhVAQAAAAAAAAAAAAAAAAAAAAAAwDFKqQABSSy3pwAAAABJRU5ErkJggg==" ,"tdDi": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEUAAABFCAYAAAAcjSspAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAApSURBVHhe7cGBAAAAAMOg+VNf4AhVAQAAAAAAAAAAAAAAAAAAAAAAwDFKqQABSSy3pwAAAABJRU5ErkJggg=="  ,"fd": "images/20241028_135533.png" ,"fdO": "images/20241028_135533.png" ,"fdD": "images/20241028_135533.png" ,"fdDi": "images/20241028_135533.png" ,"p": "M 0.000000 0.000000 L 68.000000 0.000000 L 68.000000 68.000000 L 0.000000 68.000000 L 0.000000 0.000000 z","i":"images/button23005.png","irol":"images/button23005_over.png","ion":"images/button23005_down.png","idis":"images/button23005_disabled.png"}
+,
+"image22650":{"x":788,"y":118,"w":71,"h":71,"bOffBottom":0,"i":"images/20241028_135518.png"}
+,
+"image22652":{"x":788,"y":292,"w":77,"h":77,"bOffBottom":0,"i":"images/20241028_135549.png"}
+,
+"shape22660":{"x":16,"y":12,"w":113.000000,"h":105.000000,"stylemods":[{"sel":"div.shape22660Text","decl":" { position:fixed; left:20px; top:4px; width:72px; height:96px;}"},{"sel":"span.shape22660Text","decl":" { display:table-cell; position:relative; width:72px; height:96px; vertical-align:middle; text-align:center; line-height:29px; font-size:29px; font-family:\"Bell MT\"; font-weight:bold; color:#6b4320;}"}],"bOffBottom":0 ,"td": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHEAAABpCAYAAAAN+8wmAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAABFSURBVHhe7cExAQAAAMKg9U9tCj+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI4Guc0AASpbxUUAAAAASUVORK5CYII="  ,"fd": "" ,"p": "M 0.000000 52.000000 L 0.312500 46.687500 L 1.125000 41.500000 L 2.500000 36.562500 L 4.437500 31.750000 L 6.750000 27.250000 L 9.562500 22.937500 L 12.812500 18.937500 L 16.437500 15.250000 L 20.375000 11.875000 L 24.687500 8.875000 L 29.312500 6.312500 L 34.250000 4.062500 L 39.375000 2.312500 L 44.750000 1.062500 L 50.312500 0.250000 L 56.000000 0.000000 L 61.750000 0.250000 L 67.312500 1.062500 L 72.625000 2.312500 L 77.812500 4.062500 L 82.687500 6.312500 L 87.312500 8.875000 L 91.625000 11.875000 L 95.625000 15.250000 L 99.187500 18.937500 L 102.437500 22.937500 L 105.250000 27.250000 L 107.625000 31.750000 L 109.500000 36.562500 L 110.875000 41.500000 L 111.687500 46.687500 L 112.000000 52.000000 L 111.687500 57.312500 L 110.875000 62.500000 L 109.500000 67.500000 L 107.625000 72.250000 L 105.250000 76.812500 L 102.437500 81.062500 L 99.187500 85.062500 L 95.625000 88.812500 L 91.625000 92.125000 L 87.312500 95.125000 L 82.687500 97.750000 L 77.812500 99.937500 L 72.687500 101.687500 L 67.312500 102.937500 L 61.750000 103.750000 L 56.000000 104.000000 L 50.312500 103.750000 L 44.750000 102.937500 L 39.375000 101.687500 L 34.250000 99.937500 L 29.312500 97.750000 L 24.687500 95.125000 L 20.375000 92.125000 L 16.437500 88.812500 L 12.812500 85.062500 L 9.562500 81.062500 L 6.750000 76.812500 L 4.437500 72.250000 L 2.500000 67.500000 L 1.125000 62.500000 L 0.312500 57.312500 L 0.000000 52.000000 z" ,"i":"images/shape22660.png"}
+,
+"image22662":{"x":22,"y":17,"w":103,"h":98,"bOffBottom":0,"i":"images/logo_iain_bener-removebg-preview.png"}
+,
+"button22671":{"x":924,"y":18,"w":71.000000,"h":71.000000,"stylemods":[{"sel":"div.button22671Text","decl":" { position:fixed; left:2px; top:2px; width:66px; height:66px;}"},{"sel":"span.button22671Text","decl":" { display:table-cell; position:relative; width:66px; height:66px; vertical-align:middle; text-align:center; line-height:16px; font-size:16px; font-family:\"Lucida Sans Unicode\"; color:#ffffff;}"}],"bOffBottom":0  ,"td": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEcAAABHCAYAAABVsFofAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAqSURBVHhe7cExAQAAAMKg9U9tCy+gAAAAAAAAAAAAAAAAAAAAAAAAAOBqTwsAAZkJf9MAAAAASUVORK5CYII=" ,"tdO": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEcAAABHCAYAAABVsFofAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAqSURBVHhe7cExAQAAAMKg9U9tCy+gAAAAAAAAAAAAAAAAAAAAAAAAAOBqTwsAAZkJf9MAAAAASUVORK5CYII=" ,"tdD": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEcAAABHCAYAAABVsFofAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAqSURBVHhe7cExAQAAAMKg9U9tCy+gAAAAAAAAAAAAAAAAAAAAAAAAAOBqTwsAAZkJf9MAAAAASUVORK5CYII=" ,"tdDi": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEcAAABHCAYAAABVsFofAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAqSURBVHhe7cExAQAAAMKg9U9tCy+gAAAAAAAAAAAAAAAAAAAAAAAAAOBqTwsAAZkJf9MAAAAASUVORK5CYII="  ,"fd": "images/20241028_135252.png" ,"fdO": "images/20241028_135252.png" ,"fdD": "images/20241028_135252.png" ,"fdDi": "images/20241028_135252.png" ,"p": "M 0.000000 0.000000 L 70.000000 0.000000 L 70.000000 70.000000 L 0.000000 70.000000 L 0.000000 0.000000 z","i":"images/button22671.png","irol":"images/button22671_over.png","ion":"images/button22671_down.png","idis":"images/button22671_disabled.png"}
+,
+"image24615":{"x":472,"y":482,"w":61,"h":61,"bOffBottom":0,"i":"images/b903a57a-3bc2-4149-87f1-db6fc569801c-removebg-preview_1_1_.png"}
+,
+"text22632":{"x":28,"y":195,"w":284,"h":79,"txtscale":100,"bOffBottom":0}
+,
+"text22633":{"x":30,"y":397,"w":284,"h":66,"txtscale":100,"bOffBottom":0}
+,
+"text22634":{"x":348,"y":410,"w":284,"h":44,"txtscale":100,"bOffBottom":0}
+,
+"text22635":{"x":679,"y":373,"w":284,"h":94,"txtscale":100,"bOffBottom":0}
+,
+"text22636":{"x":45,"y":552,"w":284,"h":94,"txtscale":100,"bOffBottom":0}
+,
+"text22637":{"x":361,"y":563,"w":284,"h":42,"txtscale":100,"bOffBottom":0}
+,
+"text22638":{"x":706,"y":553,"w":284,"h":94,"txtscale":100,"bOffBottom":0}
+,
+"text22639":{"x":354,"y":214,"w":284,"h":49,"txtscale":100,"bOffBottom":0}
+,
+"text22640":{"x":675,"y":198,"w":284,"h":94,"txtscale":100,"bOffBottom":0}
+,
+"image22644":{"x":406,"y":86,"w":174,"h":125,"bOffBottom":0,"i":"images/logo_latihan-removebg-preview.png"}
+,
+"image22646":{"x":456,"y":289,"w":82,"h":82,"bOffBottom":0,"i":"images/literatur_png_picture_literature_book_cartoon_illustration_literary_books_cartoon_illustrations_book_illustrations_png_image_for_free_download-removebg-preview.png"}
+,
+"image22648":{"x":133,"y":289,"w":76,"h":76,"bOffBottom":0,"i":"images/20241028_135227.png"}
+,
+"image22654":{"x":795,"y":475,"w":74,"h":74,"bOffBottom":0,"i":"images/20241028_135533.png"}
+,
+"image22656":{"x":141,"y":119,"w":67,"h":67,"bOffBottom":0,"i":"images/20241028_135333.png"}
+,
+"image22658":{"x":138,"y":469,"w":76,"h":76,"bOffBottom":0,"i":"images/20241028_135252.png"}
+,
+"shape22664":{"x":70,"y":28,"w":546.000000,"h":1.000000,"stylemods":[{"sel":"div.shape22664Text","decl":" { position:fixed; left:2px; top:2px; width:542px; height:66px;}"},{"sel":"span.shape22664Text","decl":" { display:table-cell; position:relative; width:542px; height:66px; vertical-align:middle; text-align:center; line-height:29px; font-size:29px; font-family:\"Bell MT\"; font-weight:bold; color:#6b4320;}"}],"bOffBottom":0 ,"td": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAALSURBVBhXY2AAAgAABQABqtXIUQAAAABJRU5ErkJggg=="  ,"fd": "" ,"p": "" ,"i":"images/shape22664.png"}
+,
+"RCDResetQuestion":function(){
+try{if(window.dragMgr)window.dragMgr.clearDropZones();}catch(e){if(e&&e.message)console.log(e.message);}
+}
+,
+"RCDResultResize":function(){}
+,"preload":['images/logo_iain_bener-removebg-preview.png','images/20241028_135252.png','images/20241028_135333.png','images/20241028_135533.png','images/20241028_135549.png','images/20241028_135518.png','images/20241028_135227.png','images/literatur_png_picture_literature_book_cartoon_illustration_literary_books_cartoon_illustrations_book_illustrations_png_image_for_free_download-removebg-preview.png','images/b903a57a-3bc2-4149-87f1-db6fc569801c-removebg-preview_1_1_.png','images/logo_latihan-removebg-preview.png','images/button23005.png','images/button23005_over.png','images/button23005_down.png','images/button23005_disabled.png','images/shape22660.png','images/button22671.png','images/button22671_over.png','images/button22671_down.png','images/button22671_disabled.png','images/shape22664.png']
+}}
